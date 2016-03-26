@@ -1,0 +1,9 @@
+body {
+  background: grey;
+}
+
+.has-image {
+  width: 200px;
+  height: 200px;
+  background-image: url('../img/background.jpg');
+}
